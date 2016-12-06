@@ -1,4 +1,7 @@
 @charset "utf-8";
+.mperList{height:300px;background-color:#f5f5f5;}
+ul{margin:0 auto;}
+
 
 .keyInfo{border:1px solid #d5dce4;margin-bottom:20px;}
 .keyInfo h3{margin:20px 0;}
